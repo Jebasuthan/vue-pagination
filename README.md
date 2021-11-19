@@ -1,4 +1,4 @@
-# Vue Pagination and Loader without any external libraries
+# Vue Pagination with loader, axios REST API call without any external libraries
 
 ## Project setup
 ```
