@@ -20,7 +20,7 @@ npm run serve
 4. No external libraries
 5. REST API implemented
 6. Pagination with records per page and goto page options
-
+7. SCSS styles
 
 
 ## Screenshots
