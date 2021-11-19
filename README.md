@@ -25,4 +25,6 @@ npm run serve
 
 ## Screenshots
 ### List with multiple pagination options
-![image](https://user-images.githubusercontent.com/3702438/142559810-943ba84f-9f6f-4189-9f76-76540f3fbc1f.png)
+![Screenshot](https://user-images.githubusercontent.com/3702438/142559810-943ba84f-9f6f-4189-9f76-76540f3fbc1f.png)
+
+![Demo](https://user-images.githubusercontent.com/3702438/142564944-01e82c6e-87b9-4713-bece-b423d36f0d7d.gif)
