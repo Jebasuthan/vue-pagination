@@ -1,4 +1,4 @@
-# vue-pagination
+# Vue Pagination and Loader without any external libraries
 
 ## Project setup
 ```
@@ -10,15 +10,19 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](jebasuthan.github.io/vue-pagination/)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Features available in the applilcation:
+1. Individual components
+2. Loader added
+3. Pagination added
+4. No external libraries
+5. REST API implemented
+6. Pagination with records per page and goto page options
+
+
+
+## Screenshots
+### List with multiple pagination options
+![image](https://user-images.githubusercontent.com/3702438/142559810-943ba84f-9f6f-4189-9f76-76540f3fbc1f.png)
