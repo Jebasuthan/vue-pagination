@@ -62,7 +62,7 @@ export default {
           console.log('response', response)
           this.showLoader = false
           this.listItems = response.data.data
-          this.totalPages = Math.floor(response.data.totalPassengers / this.recordsPerPage) // Calculate total records
+          this.totalPages = Math.ceil(response.data.totalPassengers / this.recordsPerPage) // Calculate total records
           this.totalRecords = response.data.totalPassengers
         })
     },
